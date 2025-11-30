@@ -91,17 +91,6 @@ This simulation addresses several key questions in computational neuroscience:
 - **Spectral Profiles**: Frequency power distributions with alpha-band highlighting
 
 
-## File Structure
-
-
-neural_oscillations/
-├── README.md                   # This file
-├── requirements.txt            # Python dependencies
-├── kuramoto_model.py          # Main simulation code
-├── run_simulation.py          # Simple runner script
-└── outputs/                    # Generated visualizations (created automatically)
-
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone and Setup Environment
@@ -169,5 +158,6 @@ conditions = {
 MIT License - Feel free to use and modify for research and educational purposes.
 
 ## Author
+
 
 Neural Oscillations Research Project
